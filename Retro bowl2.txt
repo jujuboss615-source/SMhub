@@ -1,0 +1,41 @@
+<html lang="en"><head>
+<title>bsgames https://htmlxm.github.io/h/retro-bowl</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, noodp, noydir">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui">
+<!-- <meta http-equiv="x-ua-compatible" content="ie=edge"> -->
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true,IE=Edge,chrome=1">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="bsgames">
+<meta http-equiv="Content-Language" content="en-US">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta property="og:type" content="game">
+<style>* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Helvetica Neue", "Calibri Light", Roboto, sans-serif;
+}
+
+
+html,
+body {
+background-color: #fff;
+}</style>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-KS4PKNM3TF"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-KS4PKNM3TF');
+</script>
+</head>
+<body id="run_IFRAME_HTML">
+
+<div class="oyun-iframe"><iframe id="iframehtml5" class="iframe-default" name="GAME FRAME" style="background-color:#fff" width="100%" height="100%" src="https://htmlxm.github.io/h/retro-bowl" title="bsgames" frameborder="0" border="0" scrolling="auto" allowfullscreen=""></iframe></div>
+
+
+</body></html>
